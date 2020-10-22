@@ -103,7 +103,7 @@ Agora iremos adcionar as imagens do site **Brasil em Relevo - EMBRAPA
 ## QGIS - Resultados Raster Miscelânea  Mosaico e Limites
 
 <p align="center">
-  <img src="MOSAICO.jpg" >
+  <img src="limite.jpg" >
 </p>
 
 
