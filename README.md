@@ -85,3 +85,10 @@ Agora iremos modificar a cor do preenchimento para transparente.
   <img src="preenchimento.jpg" >
 </p>
 
+Agora iremos adcionar as imagens do site **Brasil em Relevo - EMBRAPA
+
+1.  No **Menu** selecione **Camada** e escolhe **adcionar camada** e depois cliquer em **Raster**;
+
+<p align="center">
+  <img src="preenchimento.jpg" >
+</p>
