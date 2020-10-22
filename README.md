@@ -15,4 +15,5 @@ O Estado foi criado em **1988** e é dividido em **139** municípios. O Estado t
 * Área: 277.621 km²
 * Capital: Palmas
 * Governador: Mauro Carlesse (out. de 2020)
-* População: 1.383.445  (População no último censo 2010)
+* População: 1.383.445  (IBGE:População no último censo 2010)
+* Rendimento nominal mensal domiciliar per capita (IBGE:2019)
