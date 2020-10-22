@@ -90,5 +90,5 @@ Agora iremos adcionar as imagens do site **Brasil em Relevo - EMBRAPA
 1.  No **Menu** selecione **Camada** e escolhe **adcionar camada** e depois cliquer em **Raster**;
 
 <p align="center">
-  <img src="preenchimento.jpg" >
+  <img src="camadato.jpg" >
 </p>
