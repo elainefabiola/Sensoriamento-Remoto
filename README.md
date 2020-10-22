@@ -114,7 +114,7 @@ Agora iremos adcionar as imagens do site **Brasil em Relevo - EMBRAPA
   <img src="recortado.jpg" >
 </p>
 
-### QGIS - Resultados  Falsa Cor
+### QGIS - Resultados  Mapa Hipsométrico TO
 
 <p align="center">
   <img src="falsacor.jpg" >
