@@ -94,7 +94,13 @@ Agora iremos adcionar as imagens do site **Brasil em Relevo - EMBRAPA
   <img src="camadato.jpg" >
 </p>
 
-## QGIS - Resultados Raster Miscelânea mosaico_estado_to.tif
+## QGIS - Resultados Raster Miscelânea Mosaico
+
+<p align="center">
+  <img src="MOSAICO.jpg" >
+</p>
+
+## QGIS - Resultados Raster Miscelânea  Mosaico e Limites
 
 <p align="center">
   <img src="MOSAICO.jpg" >
