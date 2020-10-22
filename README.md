@@ -58,6 +58,9 @@ Para poder trabalhar no Projeto Parcial será necessario configurar algunas opç
 
 ### Criar as pastas  CG_SIR e CG_WGS
 
+Agora no Painel de Camadas com o botão direito do mouse escolha a opção Adcionar novo grupo  e adicione dois grupos com os seguintes nomes  CG_SIR (Coordenadas Geográficas SIRGAS) e CG_WGS (Coordenadas Geográficas em WGS84 baixados do site da Embrapa).
 
-
+<p align="center">
+  <img src="gdtrqw.jpg" >
+</p>
 
