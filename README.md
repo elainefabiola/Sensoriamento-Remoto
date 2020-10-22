@@ -64,3 +64,8 @@ Agora no Painel de Camadas com o botão direito do mouse escolha a opção Adcio
   <img src="grupo.jpg" >
 </p>
 
+Agora iremos adicionar uma Camada Vetorial e selecionar o arquivo **TO_UF_2019.shp**
+
+<p align="center">
+  <img src="grupo.jpg" >
+</p>
