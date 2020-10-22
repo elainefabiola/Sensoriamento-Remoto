@@ -24,7 +24,7 @@ O Estado foi criado em **1988** e é dividido em **139** municípios. O Estado t
 O Quantum GIS **(QGIS)** é um Sistema de Informações Geográficas de Código Aberto. O projeto iniciou em maio de 2002 e foi reconhecido como um projeto no SourceForge em junho do mesmo ano. O QGIS atualmenteroda em muitas distribuições **Linux, Unix, Windows e OS X**. O QGIS é uma ferramenta **Sistema de Informação Geográfica-SIG** que é uma coleção de programas que permitem criar, visualizar, consultar e analisar dados geoespaciais. 
 
 <p align="center">
-  <img src="ibgegeo.jpg" >
+  <img src="painel.jpg" >
 </p>
 
 ## Fonte de Dados
