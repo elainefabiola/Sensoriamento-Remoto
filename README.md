@@ -43,3 +43,6 @@ A Embrapa Monitoramento por Satélite concluiu uma nova série de imagens do Bra
 </p>
 
 ## QGIS - Configurações
+
+Para poder trabalhar no Projeto Parcial será necessario configurar algunas opções no QGIS. Acessando  a  barra  de menu,  vá  em Configurações  /  Opções | SRC, será  aberta uma  janela  com  a  seguinte  configuração:  Sendo aba  SRC, verifique se o seu Quantum QGIS está configurado desta forma:
+
