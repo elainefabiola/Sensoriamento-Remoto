@@ -117,5 +117,5 @@ Agora iremos adcionar as imagens do site **Brasil em Relevo - EMBRAPA
 ### QGIS - Resultados  Falsa Cor
 
 <p align="center">
-  <img src="recortado.jpg" >
+  <img src="falsacor.jpg" >
 </p>
