@@ -75,5 +75,6 @@ Agora iremos adicionar uma Camada Vetorial e selecionar o arquivo **TO_UF_2019.s
 </p>
 
 Agora iremos modificar a cor do preenchimento para transparente.
-1- Selecione a camada vetrorial do arquivo TO_UF_2019;
-2- Renomeie a camada para Estado TO Limites e arraste-a para CG-SIR
+
+1. Selecione a camada vetrorial do arquivo TO_UF_2019;
+2. Renomeie a camada para Estado TO Limites e arraste-a para CG-SIR
