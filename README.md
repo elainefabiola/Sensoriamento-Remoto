@@ -71,5 +71,5 @@ Agora iremos adicionar uma Camada Vetorial e selecionar o arquivo **TO_UF_2019.s
 </p>
 
 <p align="center">
-  <img src="carregandoarquivo.jpg" >
+  <img src="carregandoarquivo2to.jpg" >
 </p>
