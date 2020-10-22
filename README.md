@@ -147,5 +147,5 @@ Agora iremos adcionar as imagens do site **Brasil em Relevo - EMBRAPA
 ###  QGIS -Mapa de Relevo Colorido Transparência 40% Hipsométrico TO
 
 <p align="center">
-  <img src="transp0arencia.jpg" >
+  <img src="MapaHipsométricorelevo.jpg" >
 </p>
