@@ -34,4 +34,6 @@ A Malha  Municipal  retrata  a  situação  vigente  da  Divisão  Político-Adm
 
 ### Brasil em Relevo - EMBRAPA
 
-A Embrapa Monitoramento por Satélite concluiu uma nova série de imagens do Brasil visto do espaço com detalhes do relevo e da topografia. As imagens são do satélite Landsat 7 de 2000/2001 -Referência  MIRANDA, E. E. de; (Coord.).   Brasil em Relevo.   Campinas: Embrapa Monitoramento por Satélite, 2005.  Disponível em: <http://www.relevobr.cnpm.embrapa.br>.   Acesso em: 22 Out. 2020 
+A Embrapa Monitoramento por Satélite concluiu uma nova série de imagens do Brasil visto do espaço com detalhes do relevo e da topografia. As imagens são do satélite Landsat 7 de 2000/2001 
+
+-Referência  MIRANDA, E. E. de; (Coord.).   Brasil em Relevo.   Campinas: Embrapa Monitoramento por Satélite, 2005.  Disponível em: <http://www.relevobr.cnpm.embrapa.br>.   Acesso em: 22 Out. 2020 
