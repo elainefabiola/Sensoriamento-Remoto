@@ -82,6 +82,6 @@ Agora iremos modificar a cor do preenchimento para transparente.
 
 
 <p align="center">
-  <img src="carregandoarquivo2to.jpg" >
+  <img src="preenchimento.jpg" >
 </p>
 
