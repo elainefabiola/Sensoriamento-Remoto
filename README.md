@@ -109,6 +109,6 @@ Agora iremos adcionar as imagens do site **Brasil em Relevo - EMBRAPA
 ## QGIS - Resultados Raster: Mosaico, Limites e Recortado
 
 <p align="center">
-  <img src="limite.jpg" >
+  <img src="recortado.jpg" >
 </p>
 
