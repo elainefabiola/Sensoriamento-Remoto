@@ -10,7 +10,7 @@
 # Projeto Parcial 1 -  Tocantins
 ## Contexto Geral
 
-O Estado foi criado em **1988** e é dividido em **139** municípios. O Estado tem em  2020  uma  população  de  aproximadamente  1,5  milhões  de  pessoas em 2020.    Mais  de  um terço da população está concentrado nas cinco cidades maiores: Palmas, Araguaína, Gurupi,  Porto  Nacional  e  Paraíso  de  Tocantins.  Dados  com  respeito  à  densidade demográfica  mostram  que  a  população  se  concentra  ao  longo  dos  grandes  eixos rodoviários,  a  BR  153  e  as  rodovias  estaduais  050  e  040  que  ligam  a  cidade  de Palmas a Brasília e Salvador, respectivamente.
+O Estado foi criado em **1988** e é dividido em **139** municípios. O Estado tem em  2020  uma  população  de  aproximadamente  1,5  milhões  de  pessoas em 2020.    Mais  de  um terço da população está concentrado nas cinco cidades maiores: Palmas, Araguaína, Gurupi,  Porto  Nacional  e  Paraíso  de  Tocantins.  Dados  com  respeito  à  densidade demográfica  mostram  que  a  população  se  concentra  ao  longo  dos  grandes  eixos rodoviários,  a  **BR  153**  e  as  rodovias  estaduais  050  e  040  que  ligam  a  cidade  de **Palmas a Brasília e Salvador**, respectivamente.
 
 * Área: 277.621 km²
 * Capital: Palmas
