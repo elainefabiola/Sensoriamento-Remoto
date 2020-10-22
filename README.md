@@ -25,7 +25,9 @@ O Quantum GIS **(QGIS)** é um Sistema de Informações Geográficas de Código 
 
 ## Fonte de Dados
 
-## IBGE
+### Malha Municipal do IBGE
+A Malha Municipal do IBGE é confeccionada sempre utilizando-se referências legais. Para a materialização do delineamento da linha divisória, são utilizadas as bases cartográficas oficiais, os insumos cartográficos disponíveis mais recentes e os relatórios técnicos dos órgãos estaduais que atualizam a linha divisória a partir dos acordos sociais e administrativos identificados em cada região.
+
 
 <p align="center">
   <img src="ibgegeo.jpg" >
