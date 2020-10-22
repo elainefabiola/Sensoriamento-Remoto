@@ -120,14 +120,22 @@ Agora iremos adcionar as imagens do site **Brasil em Relevo - EMBRAPA
   <img src="falsacor.jpg" >
 </p>
 
-###  QGIS -Mapa Mosaico Sombreado TO - imagem sombreada com 135 para o Azimute e 45 de ângulo;
+###  QGIS -Mapa Mosaico Sombreado TO - imagem sombreada com 135 para o Azimute e 45 de ângulo
 
 <p align="center">
   <img src="camadamoisaquitor.jpg" >
 </p>
 
-###  QGIS -Mapa Mosaico Sombreado TO - imagem sombreada com 180 para o Azimute e 45 de ângulo;
+###  QGIS -Mapa Mosaico Sombreado TO - imagem sombreada com 180 para o Azimute e 45 de ângulo
 
 <p align="center">
   <img src="camadasobreado2.jpg" >
 </p>
+
+###  QGIS -Mapa de Relevo Colorido
+
+<p align="center">
+  <img src="Colorido.jpg" >
+</p>
+
+
