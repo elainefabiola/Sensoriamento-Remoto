@@ -129,5 +129,5 @@ Agora iremos adcionar as imagens do site **Brasil em Relevo - EMBRAPA
 ###  QGIS -Mapa Mosaico Sombreado TO - imagem sombreada com 180 para o Azimute e 45 de ângulo;
 
 <p align="center">
-  <img src="camadamoisaquitor.jpg" >
+  <img src="camadasobreado2" >
 </p>
