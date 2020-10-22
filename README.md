@@ -88,6 +88,7 @@ Agora iremos modificar a cor do preenchimento para transparente.
 Agora iremos adcionar as imagens do site **Brasil em Relevo - EMBRAPA
 
 1.  No **Menu** selecione **Camada** e escolhe **adcionar camada** e depois cliquer em **Raster**;
+2.  Na jenela de Raster escolha todoas as imagens do aquivo da EMBRAPA **.tif**
 
 <p align="center">
   <img src="camadato.jpg" >
