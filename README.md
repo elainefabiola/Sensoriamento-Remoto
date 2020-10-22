@@ -42,3 +42,4 @@ A Embrapa Monitoramento por Satélite concluiu uma nova série de imagens do Bra
   <img src="relevotocatins.jpg" >
 </p>
 
+## Configurando as propriedades do projeto no QGIS
