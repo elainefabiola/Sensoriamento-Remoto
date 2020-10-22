@@ -123,5 +123,5 @@ Agora iremos adcionar as imagens do site **Brasil em Relevo - EMBRAPA
 ###  QGIS -Camada Mosaico Sombreado TO
 
 <p align="center">
-  <img src="falsacor.jpg" >
+  <img src="camadamoisaquitor.jpg" >
 </p>
